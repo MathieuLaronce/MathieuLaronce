@@ -7,7 +7,10 @@
 </div>
 
 ---
+### Projet terminé et fonctionel :
+- Implémentation de LLM distillés sur de vieilles machines.
+- Développement d’un chatbot juridique capable de répondre aux questions liées aux Conditions Générales de Vente d’un site e-commerce.
 
 ### Je travaille actuellement sur des projets :
-- D'implémentation de LLM distillés sur de vieilles machines.  
-- Développement d’un chatbot juridique capable de répondre aux questions liées aux Conditions Générales de Vente d’un site e-commerce.
+ 
+- Création d'une BBD centrale pour un grossiste souhaitant le suivi des CMD passé par leurs revendeurs régionaux. Ainsi qu’une conservation de photographie des stocks. 
