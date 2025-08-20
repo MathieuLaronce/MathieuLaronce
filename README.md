@@ -28,14 +28,15 @@ Après six années d’expérience dans la grande distribution, où j'ai évolu�
 <div align="center">
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-536af5?logo=deepseek&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4B8BBE?logo=databricks&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-536af5?logo=deepseek&logoColor=white)
+
 
 </div>
 
