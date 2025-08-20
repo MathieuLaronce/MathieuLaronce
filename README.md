@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bonjour, je m'appelle Mathieu Laronce
+# Bonjour à tous
 
-### Après six années d’expérience dans la grande distribution, où j'ai évolué jusqu'à des postes de responsable commerce et logistique, je me reconvertis dans le secteur du numérique et mon objectif est d'obtenir la certification Microsoft de développeur en intelligence artificielle à l'ISEN🎓, afin de mettre mes compétences en gestion au profit de ma passion pour les nouvelles technologies.
+### Je m'appelle Mathieu Laronce, après six années d’expérience dans la grande distribution, où j'ai évolué jusqu'à des postes de responsable commerce et logistique, je me reconvertis dans le secteur du numérique et mon objectif est d'obtenir la certification Microsoft de développeur en intelligence artificielle à l'ISEN🎓, afin de mettre mes compétences en gestion au profit de ma passion pour les nouvelles technologies.
 
 </div>
 
