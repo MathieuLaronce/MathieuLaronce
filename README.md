@@ -4,7 +4,7 @@
 
 ### Je m'appelle Mathieu Laronce
 
-Après six années d’expérience dans la grande distribution, où j'ai évolué jusqu'à des postes de responsable commerce et logistique, je me reconvertis dans le secteur du numérique. Mon objectif est d'obtenir la certification **Microsoft de développeur en intelligence artificielle** à l'ISEN 🎓, afin de mettre mes compétences en gestion au profit de ma passion pour les nouvelles technologies.
+Après six années d’expérience dans la grande distribution, où j'ai évolué jusqu'à des postes de responsable commerce et logistique, je me reconvertis dans le secteur du numérique. Mon objectif est d'obtenir la certification Microsoft de développeur en intelligence artificielle à l'ISEN 🎓, afin de mettre mes compétences en gestion au profit de ma passion pour les nouvelles technologies.
 
 </div>
 
@@ -12,15 +12,15 @@ Après six années d’expérience dans la grande distribution, où j'ai évolu�
 
 ## Projets terminés et fonctionnels
 
-- Implémentation de **LLM distillés** sur de vieilles machines.  
-- Développement d’un **chatbot juridique** capable de répondre aux questions liées aux Conditions Générales de Vente d’un site e-commerce.
-- Création d'une **base de données centrale** pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks. (Repo: (https://github.com/MathieuLaronce/Distributech ))
-
+- Implémentation de LLM distillés sur de vieilles machines.  
+- Développement d’un chatbot juridique capable de répondre aux questions liées aux Conditions Générales de Vente d’un site e-commerce.
+- Création d'une base de données centrale pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks. (Repo: (https://github.com/MathieuLaronce/Distributech ))
+- Création d'une base de données centrale pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks.
 ---
 
 ## Projets en cours
 
-- Création d'une **base de données centrale** pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks.
+- Mise en place d'un rag a partir de plusieurs sources.
 
 ---
 
