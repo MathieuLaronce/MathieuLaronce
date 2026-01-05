@@ -29,7 +29,7 @@ Après six années d’expérience dans la grande distribution, où j'ai évolu�
 <div align="center">
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-5A5A5A?logo=ollama&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-536af5?logo=deepseek&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
