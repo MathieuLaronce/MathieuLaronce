@@ -15,7 +15,7 @@ Après six années d’expérience dans la grande distribution, où j'ai évolu�
 - Implémentation de LLM distillés sur de vieilles machines.  
 - Développement d’un chatbot juridique capable de répondre aux questions liées aux Conditions Générales de Vente d’un site e-commerce.
 - Création d'une base de données centrale pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks. (Repo: (https://github.com/MathieuLaronce/Distributech ))
-- Création d'une base de données centrale pour un grossiste, permettant le suivi des commandes passées par les revendeurs régionaux et la conservation de photographies des stocks.
+
 ---
 
 ## Projets en cours
